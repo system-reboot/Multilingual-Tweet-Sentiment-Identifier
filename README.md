@@ -1,1 +1,1 @@
-# Racist-History-Identifier
+# Sentiment analysis of Social Media Posts
